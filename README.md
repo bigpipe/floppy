@@ -8,6 +8,9 @@
 [david]: https://img.shields.io/david/bigpipe/floppy.svg?style=flat-square
 [cover]: http://img.shields.io/coveralls/bigpipe/floppy/master.svg?style=flat-square
 
+Floppy a file representation for assets. It will automatically clean up after it
+self after all dependent processes eject it.
+
 ## Installation
 
 The module is written with Browserify and Node.js in mind and is released in the
